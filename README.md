@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on refining my Automation framework-design skills.
+- 🌱 I’m currently learning CI/CD tool (Jenkins)
+- 💬 Ask me about Selenium Webdriver, Core Java, Git/Github, Postman, Vim(Intermidiate)
+- 📫 How to reach me: Instagram - @gurparvsingh
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I can listen to lofi music or watch anime for hours.
+
