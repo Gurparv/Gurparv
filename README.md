@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on refining my Automation framework-design skills.
-- 🌱 I’m currently learning CI/CD tool (Jenkins)
+- 🔭 I’m currently working on building my Automation testing framework for github.
+- 🌱 I’m currently learning devOps.
 - 💬 Ask me about Selenium Webdriver, Core Java, Git/Github, Postman, Vim(Intermediate)
 - 📫 How to reach me: Instagram - @gurparvsingh
 - 😄 Pronouns: He/His
