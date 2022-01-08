@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Profile Summary:**
+## **Profile Summary:**
 - Language : Java, Python and Javascript.
 - Tools : Git, Jenkins, Intellij, Agile, Vim, Maven. Chrome DevTools
 - Good understanding of SDLC and STLC, both agile and waterfall methodology.
@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 - Excellent analytical and troubleshooting skills.
 
 
-- 📫 How to reach me:
-  -  LinkedIN - [! My LinkedIn](https://www.linkedin.com/in/gurparv/)
+## **How to Reach me :**
+  [LinkedIn](https://www.linkedin.com/in/gurparv/)
 
+----
 [![Gurparv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurparv&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
