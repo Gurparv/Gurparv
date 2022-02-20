@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## **Profile Summary:**
 - Language : Java, Python and Javascript.
-- Tools : Git, Jenkins, Intellij, Agile, Vim, Maven. Chrome DevTools
+- Tools : Git, Jenkins, Intellij, Agile, Vim, Maven. Chrome DevTools, Postman
 - Good understanding of SDLC and STLC, both agile and waterfall methodology.
 - Software testing (component, Integration and Regression.)
 - Test planning and execution
